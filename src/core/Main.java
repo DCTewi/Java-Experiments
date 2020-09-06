@@ -14,7 +14,8 @@ public class Main
                 new Exp1_3(),
                 new Exp4_1(),
                 new Exp4_2(),
-                new Exp7_1()
+                new Exp7_1(),
+                new Exp7_2()
         };
 
         while (true)
